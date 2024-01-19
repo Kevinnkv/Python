@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\ADMIN\\OneDrive\\Documents\\Python\\PyTest\\test.py","tests":[{"id":1681481341973,"input":"Nguyen  KHAC     VUONG","output":"Nguyen Khac Vuong"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\OneDrive\\Documents\\Python\\PyTest\\test.py","group":"local","local":true}
