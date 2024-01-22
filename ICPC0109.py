@@ -15,7 +15,7 @@ while t > 0:
 
     # Read the size of the array
     n = input()
-
+    
     # Read the array and duplicate spaces to ensure proper matching
     arrStr = ' ' + input().replace(' ', '  ') + ' '
 
