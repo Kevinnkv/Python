@@ -1,0 +1,1 @@
+{"name":"Local: PY02004","url":"c:\\Users\\ADMIN\\OneDrive\\Documents\\Python\\Python\\PY02004.py","tests":[{"id":1706238560621,"input":"6\n1 0 0 1 1 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\OneDrive\\Documents\\Python\\Python\\PY02004.py","group":"local","local":true}
