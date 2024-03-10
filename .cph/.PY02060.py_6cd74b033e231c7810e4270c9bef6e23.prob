@@ -1,0 +1,1 @@
+{"name":"Local: PY02060","url":"c:\\Users\\nguye\\Kỳ 2 năm 3\\Python\\Python\\PY02060.py","tests":[{"id":1708957669638,"input":"2\n2 3\n5 5","output":"9\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nguye\\Kỳ 2 năm 3\\Python\\Python\\PY02060.py","group":"local","local":true}

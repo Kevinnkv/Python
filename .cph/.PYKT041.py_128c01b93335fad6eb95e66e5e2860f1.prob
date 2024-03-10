@@ -1,0 +1,1 @@
+{"name":"Local: PYKT041","url":"c:\\Users\\nguye\\Kỳ 2 năm 3\\Python\\Python\\PYKT041.py","tests":[{"id":1710085719948,"input":"4\nCC..\nC..C\n.CC.\n.CC.","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nguye\\Kỳ 2 năm 3\\Python\\Python\\PYKT041.py","group":"local","local":true}

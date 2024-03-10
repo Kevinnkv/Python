@@ -1,4 +1,6 @@
 {
-    "editor.accessibilityPageSize": 12,
-    "accessibility.alert.clear": false
+  "editor.accessibilityPageSize": 12,
+  "accessibility.signals.clear": {
+    "announcement": "off"
+  }
 }
