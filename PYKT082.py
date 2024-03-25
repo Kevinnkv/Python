@@ -30,9 +30,9 @@ def getScores(s):
     else:
         return 2.5
 def round(s):
-    if s - int(s) >= 0.5:
+    if s - int(s) >= 0.75:
         return int(s) + 1.0
-    elif 0.25 <= s - int(s) <= 0.5:
+    elif 0.25 <= s - int(s) < 0.75:
         return int(s) + 0.5
     else:
         return int(s)
