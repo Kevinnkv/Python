@@ -1,0 +1,1 @@
+{"name":"Local: PY01012","url":"d:\\Kỳ 2 năm 3\\Python\\Python\\PY01012.py","tests":[{"id":1713618281373,"input":"mon thcs2 hoc de\nngon ngu C.\n1","output":"ngon ngu C.mon thcs2 hoc de"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Kỳ 2 năm 3\\Python\\Python\\PY01012.py","group":"local","local":true}
